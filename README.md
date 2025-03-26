@@ -1,4 +1,4 @@
-### **Teoría Cuántica Básica: Observables y Medidas**  
+# **Teoría Cuántica Básica: Observables y Medidas**  
 
 Este proyecto es relacionado con los fundamentos de la **mecánica cuántica**, centrándose en los **observables y las mediciones**.  
 
